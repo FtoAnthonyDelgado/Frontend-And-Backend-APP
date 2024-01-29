@@ -26,7 +26,7 @@
   
         <!-- cabecera y fondo de cabecera -->
         <header class="showcase" >
-            <h1 style="color:white;">JADEN CORP</h1>
+            <h1 style="color:white;">TF FINAL</h1>
             <p style="color:white;">
             Con nosotros aseguras tu futuro.
             </p>
